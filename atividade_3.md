@@ -6,7 +6,7 @@ Importante citar que o Visual Studio possui funcionalidades extras e uma maior c
 - Baixe a versão comunidade.
 - Durante a instalação, você irá se deparar com a seguinte tela:
 
-<img src="tela_atividade3.png" alt="tela" width="500"/>
+<img src="./imagens/tela_atividade3.png" alt="tela" width="500"/>
 
 - Como na imagem, marque apenas a opção ASP.NET. A barra a direita de detalhes da instalação pode ficar como está.
 - Continue a instalação normalmente.
@@ -20,7 +20,7 @@ Mais informações sobre suas funcionalidades estarão em suas respectivas pagin
 
 Após a instalação da C#, para habilitar a importação é necessário ir em suas configurações e marcar a seguinte opção: 
 
-![image](opcao_atividade3.png)
+![image](./imagens/opcao_atividade3.png)
 
 Ao se digitar no codigo algo que não está importado, aparecerá a opção de autocomplete, que, se selecionada, também importará automaticamente a biblioteca necessária.
 
